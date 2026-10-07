@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Managed-Message-Queue-Mqaas/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Managed-Message-Queue-Mqaas?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Managed-Message-Queue-Mqaas/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Managed-Message-Queue-Mqaas?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Managed-Message-Queue-Mqaas/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Managed-Message-Queue-Mqaas?style=social" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Managed-Message-Queue-Mqaas/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Managed-Message-Queue-Mqaas?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -58,7 +58,7 @@ Below is a comparison of top commercial Message Queuing as a Service (MQaaS) pla
 
 ## 🔥 Open-Source GitHub Projects
 
-Sorted by **GitHub Star Count** in descending order. Click on any star badge to visit the repository stargazers page.
+Sorted by **GitHub Stars_Count** in descending order. Click on any Stars_Badge to visit the repository stargazers page.
 
 ### 🚀 High-Throughput Streaming & Brokers
 
@@ -123,7 +123,7 @@ Contributions are welcome and appreciated! Follow these steps to submit a contri
 
 1. **Fork** this repository.
 2. Add or update entries in `README.md` keeping formatting consistent with existing tables.
-3. Ensure open-source additions include GitHub link, star badge, license, and brief description.
+3. Ensure open-source additions include GitHub link, Stars_Badge, license, and brief description.
 4. For SaaS submissions, provide verified starting pricing and free tier/trial limits.
 5. Create a Pull Request with a clear description of your changes.
 
