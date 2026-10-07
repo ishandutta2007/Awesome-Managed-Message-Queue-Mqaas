@@ -9,6 +9,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Managed-Message-Queue-Mqaas/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Managed-Message-Queue-Mqaas?style=social" alt="GitHub stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Managed-Message-Queue-Mqaas/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Managed-Message-Queue-Mqaas?style=social" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Managed-Message-Queue-Mqaas/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Managed-Message-Queue-Mqaas?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > **A curated directory of commercial Message Queuing as a Service (MQaaS) platforms, serverless message brokers, distributed task queues, and open-source messaging projects.**
@@ -25,7 +26,9 @@
   - [☸️ Kubernetes-Native & Cloud Queuing](#️-kubernetes-native--cloud-queuing)
   - [🛠️ Additional Open-Source Options](#️-additional-open-source-options)
 - [🤝 How to Contribute](#-how-to-contribute)
-- [⚠️ Enterprise Best Practices & Disclaimer](#️-enterprise-best-practices--disclaimer)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Enterprise Best Practices & Disclaimer](#-enterprise-best-practices--disclaimer)
+- [⭐ Star History](#-star-history)
 
 ---
 
@@ -126,6 +129,17 @@ Contributions are welcome and appreciated! Follow these steps to submit a contri
 
 ---
 
+## 💖 Support & Sponsorship
+
+If you found this curated list helpful, please consider supporting the project:
+
+- ⭐️ **Star** this repository to increase visibility.
+- 🔀 **Fork** and contribute new MQaaS products or open-source queue tools.
+- 📢 **Share** this list with fellow developers, cloud architects, and platform teams.
+- ☕ **Sponsor / Buy me a coffee**: Support ongoing maintenance on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## ⚠️ Enterprise Best Practices & Disclaimer
 
 - **Dead-Letter Queue (DLQ) Configuration**: Never run message queues in production without configuring a Dead-Letter Queue. DLQs isolate poison messages that fail repeatedly, preventing queue blockage and data loss.
@@ -133,6 +147,12 @@ Contributions are welcome and appreciated! Follow these steps to submit a contri
 - **Poison Message Guardrails**: Set strict maximum retry thresholds (e.g., max 3-5 retries) before sending messages to DLQ and trigger automated alerts on DLQ depth anomalies.
 - **Licensing Considerations**: Verify licenses before deploying: RabbitMQ (MPL-2.0), Kafka/Pulsar/NATS/KEDA (Apache-2.0), Celery (BSD-3-Clause), BullMQ/Beanstalkd/NSQ (MIT), Sidekiq/Dramatiq (LGPL-3.0).
 - **Community Disclaimer**: This directory is community-curated for informational purposes.
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Managed-Message-Queue-Mqaas&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Managed-Message-Queue-Mqaas&type=date&legend=top-left)
 
 ---
 
